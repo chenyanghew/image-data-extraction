@@ -1,6 +1,7 @@
 # Extraction of information and drawings 
 Splitting data and drawings from an engineering drawing <br />
 Able to extract data such as drawing number, date, title, and etc. <br />
+Storing extracted data in a Microsoft Excel spreadsheet file <br />
 Crop drawings from engineering drawing
 
 ## Installation
